@@ -27,13 +27,16 @@ Jupyter notebookのプレゼンテーションはローカルにダウンロー�
 
 # Contents
 ## 1/23：【NGK2021S】画像処理デモの見栄えを工夫したお話し
-![000001]()
 <img src="https://user-images.githubusercontent.com/37477845/105575124-80b47400-5dac-11eb-800d-17fca24681d3.jpg" width="640px" height="360px">
 
 パス：presentation_document/20210123_NGK2021S
 
-資料：[SpeakerDeck](https://speakerdeck.com/kazuhitotakahashi/ngk2020s-image-processing-presentation) / [Youtube](https://youtu.be/yNpvhuMLjgg)
+資料：[SpeakerDeck](https://speakerdeck.com/kazuhitotakahashi/ngk2021s-image-processing-demo) / [Youtube](https://www.youtube.com/watch?v=KsKsMqLfpIs)
 
+Requirement： 
+* TensorFlow 2.3.0 or later
+* MediaPipe 0.8.1 or later
+* Pillow 6.1.0 or later
 
 # Author
 高橋かずひと(https://twitter.com/KzhtTkhs)
