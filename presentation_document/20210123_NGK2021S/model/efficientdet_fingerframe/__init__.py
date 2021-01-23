@@ -1,0 +1,1 @@
+from model.efficientdet_fingerframe.efficientdet_fingerframe import FingerFrameDetection

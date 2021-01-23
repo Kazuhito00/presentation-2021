@@ -1,0 +1,1 @@
+from model.efficientnet_b0.efficientnet_b0 import EfficientNetB0
