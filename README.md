@@ -26,6 +26,13 @@ python presentation.py
 Jupyter notebookのプレゼンテーションはローカルにダウンロードしてJupyterで開くか、Binderのリンクからご確認ください。
 
 # Contents
+## 3/3：【MLN #28】Pythonパッケージ版のMediaPipeが超お手軽
+<img src="https://user-images.githubusercontent.com/37477845/109809219-669f6880-7c6b-11eb-8d9b-c37d599e19e9.png" width="640px" height="360px">
+
+パス：presentation_document/20210303_MLN#28
+
+資料：[SpeakerDeck](https://speakerdeck.com/kazuhitotakahashi/mln28-python-mediapipe) / [Youtube](https://youtu.be/MXMMO75hYiY)
+
 ## 1/23：【NGK2021S】画像処理デモの見栄えを工夫したお話し
 <img src="https://user-images.githubusercontent.com/37477845/105575124-80b47400-5dac-11eb-800d-17fca24681d3.jpg" width="640px" height="360px">
 
