@@ -31,7 +31,7 @@ Jupyter notebookのプレゼンテーションはローカルにダウンロー�
 
 パス：presentation_document/20210303_MLN#28
 
-資料：[SpeakerDeck](https://speakerdeck.com/kazuhitotakahashi/mln28-pytho-mediapipe) / [Youtube](https://youtu.be/MXMMO75hYiY)
+資料：[SpeakerDeck](https://speakerdeck.com/kazuhitotakahashi/mln28-python-mediapipe) / [Youtube](https://youtu.be/MXMMO75hYiY)
 
 ## 1/23：【NGK2021S】画像処理デモの見栄えを工夫したお話し
 <img src="https://user-images.githubusercontent.com/37477845/105575124-80b47400-5dac-11eb-800d-17fca24681d3.jpg" width="640px" height="360px">
