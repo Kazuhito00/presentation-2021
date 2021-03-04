@@ -28,6 +28,7 @@ Jupyter notebookのプレゼンテーションはローカルにダウンロー�
 # Contents
 ## 3/3：【MLN #28】Pythonパッケージ版のMediaPipeが超お手軽
 <img src="https://user-images.githubusercontent.com/37477845/109809219-669f6880-7c6b-11eb-8d9b-c37d599e19e9.png" width="640px" height="360px">
+※PDF版の資料のみ公開
 
 パス：presentation_document/20210303_MLN#28
 
