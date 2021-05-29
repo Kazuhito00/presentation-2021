@@ -27,9 +27,9 @@ Jupyter notebookのプレゼンテーションはローカルにダウンロー�
 
 # Contents
 ## 5/29：【OSC2021Nagoya】Pythonパッケージ版のMediaPipeが超お手軽
-※3/3に発表した「【MLN #28】Pythonパッケージ版のMediaPipeが超お手軽」の実演デモ版＋応用事例紹介です
 <img src="https://user-images.githubusercontent.com/37477845/120064112-b09abd80-c0a5-11eb-8a49-bf8b3dbeee8b.jpg" width="640px" height="360px">
 
+※3/3に発表した「【MLN #28】Pythonパッケージ版のMediaPipeが超お手軽」の実演デモ版＋応用事例紹介です
 パス：presentation_document/20210529_OSC2021NagoyaPythonTokai
 
 資料：[SpeakerDeck](https://speakerdeck.com/kazuhitotakahashi/osc2021nagoya-pythontokai-lt) / [Youtube](https://youtu.be/nPYjyZQsIdQ)<br>
