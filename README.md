@@ -26,13 +26,25 @@ python presentation.py
 Jupyter notebookのプレゼンテーションはローカルにダウンロードしてJupyterで開くか、Binderのリンクからご確認ください。
 
 # Contents
+## 5/29：【OSC2021Nagoya】Pythonパッケージ版のMediaPipeが超お手軽
+<img src="https://user-images.githubusercontent.com/37477845/120064112-b09abd80-c0a5-11eb-8a49-bf8b3dbeee8b.jpg" width="640px" height="360px">
+
+パス：presentation_document/20210529_OSC2021NagoyaPythonTokai
+
+資料：[SpeakerDeck](https://speakerdeck.com/kazuhitotakahashi/osc2021nagoya-pythontokai-lt) / [Youtube](https://youtu.be/nPYjyZQsIdQ)<br>
+サンプルプログラム：[Kazuhito00/mediapipe-python-sample](https://github.com/Kazuhito00/mediapipe-python-sample)
+
+Requirement： 
+* MediaPipe 0.8.4 or later
+* Pillow 6.1.0 or later
+
 ## 3/3：【MLN #28】Pythonパッケージ版のMediaPipeが超お手軽
 <img src="https://user-images.githubusercontent.com/37477845/109809219-669f6880-7c6b-11eb-8d9b-c37d599e19e9.png" width="640px" height="360px">
 ※PDF版の資料のみ公開
 
 パス：presentation_document/20210303_MLN#28
 
-資料：[SpeakerDeck](https://speakerdeck.com/kazuhitotakahashi/mln28-python-mediapipe) / [Youtube](https://youtu.be/MXMMO75hYiY)
+資料：[SpeakerDeck](https://speakerdeck.com/kazuhitotakahashi/mln28-python-mediapipe) / [Youtube](https://youtu.be/MXMMO75hYiY)<br>
 サンプルプログラム：[Kazuhito00/mediapipe-python-sample](https://github.com/Kazuhito00/mediapipe-python-sample)
 
 ## 1/23：【NGK2021S】画像処理デモの見栄えを工夫したお話し
