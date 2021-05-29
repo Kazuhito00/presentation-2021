@@ -32,7 +32,8 @@ Jupyter notebookのプレゼンテーションはローカルにダウンロー�
 パス：presentation_document/20210529_OSC2021NagoyaPythonTokai
 
 資料：[SpeakerDeck](https://speakerdeck.com/kazuhitotakahashi/osc2021nagoya-pythontokai-lt) / [Youtube](https://youtu.be/nPYjyZQsIdQ)<br>
-サンプルプログラム：[Kazuhito00/mediapipe-python-sample](https://github.com/Kazuhito00/mediapipe-python-sample)
+サンプルプログラム：[Kazuhito00/mediapipe-python-sample](https://github.com/Kazuhito00/mediapipe-python-sample)<br>
+紹介事例：[Kazuhito00/hand-gesture-recognition-using-mediapipe](https://github.com/Kazuhito00/hand-gesture-recognition-using-mediapipe)
 
 Requirement： 
 * MediaPipe 0.8.4 or later
