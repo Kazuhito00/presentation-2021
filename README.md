@@ -40,7 +40,7 @@ Requirement：
 * MediaPipe 0.8.4 or later
 * Pillow 6.1.0 or later
 
-## 3/3：【MLN #28】<br>Pythonパッケージ版のMediaPipeが超お手軽
+## 3/3：【MLN #28】Pythonパッケージ版のMediaPipeが超お手軽
 <img src="https://user-images.githubusercontent.com/37477845/109809219-669f6880-7c6b-11eb-8d9b-c37d599e19e9.png" width="640px" height="360px">
 ※PDF版の資料のみ公開
 
@@ -49,7 +49,7 @@ Requirement：
 資料：[SpeakerDeck](https://speakerdeck.com/kazuhitotakahashi/mln28-python-mediapipe) / [Youtube](https://youtu.be/MXMMO75hYiY)<br>
 サンプルプログラム：[Kazuhito00/mediapipe-python-sample](https://github.com/Kazuhito00/mediapipe-python-sample)
 
-## 1/23：【NGK2021S】<br>画像処理デモの見栄えを工夫したお話し
+## 1/23：【NGK2021S】画像処理デモの見栄えを工夫したお話し
 <img src="https://user-images.githubusercontent.com/37477845/105575124-80b47400-5dac-11eb-800d-17fca24681d3.jpg" width="640px" height="360px">
 
 パス：presentation_document/20210123_NGK2021S
