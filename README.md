@@ -26,7 +26,7 @@ python presentation.py
 Jupyter notebookのプレゼンテーションはローカルにダウンロードしてJupyterで開くか、Binderのリンクからご確認ください。
 
 # Contents
-## 5/29：【OSC2021Nagoya】Pythonパッケージ版のMediaPipeが超お手軽(実演デモ版)
+## 5/29：【OSCNagoya】Pythonパッケージ版のMediaPipeが超お手軽(実演デモ版)
 <img src="https://user-images.githubusercontent.com/37477845/120064112-b09abd80-c0a5-11eb-8a49-bf8b3dbeee8b.jpg" width="640px" height="360px">
 
 ※3/3に発表した「【MLN #28】Pythonパッケージ版のMediaPipeが超お手軽」の実演デモ版＋応用事例紹介です<br>
