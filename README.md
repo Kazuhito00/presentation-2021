@@ -26,6 +26,12 @@ python presentation.py
 Jupyter notebookのプレゼンテーションはローカルにダウンロードしてJupyterで開くか、Binderのリンクからご確認ください。
 
 # Contents
+## 11/20：【PyCon mini Shizuoka2021】<br>Raspberry Pi 4でリアルタイムなディープラーニング
+<img src="https://user-images.githubusercontent.com/37477845/142660434-03f65ab6-1d90-4ffb-8f7e-f6868548a83a.png" width="640px" height="360px">
+
+資料：[SpeakerDeck](https://speakerdeck.com/kazuhitotakahashi/real-time-deep-learning-with-raspberry-pi-4) / [Youtube](https://youtu.be/StGMT_rIRg4)<br>
+サンプルプログラム：[Kazuhito00/PyCon-mini-Shizuoka-2021-Talk4](https://github.com/Kazuhito00/PyCon-mini-Shizuoka-2021-Talk4)
+
 ## 5/29：【OSC2021Nagoya】<br>　Pythonパッケージ版のMediaPipeが超お手軽 (実演デモ版)
 <img src="https://user-images.githubusercontent.com/37477845/120064112-b09abd80-c0a5-11eb-8a49-bf8b3dbeee8b.jpg" width="640px" height="360px">
 
